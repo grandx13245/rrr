@@ -5,6 +5,7 @@ import java.net.UnknownHostException;
 
 public class Main {
     public static void main(String[] args) {
+        // iuyoiyoiy
         String HOST = "tw.yahoo.com";
         String IP = "124.108.103.103";
 
